@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harmayni25
+- 👋 Hi, I’m Harmayni 
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on new projects
